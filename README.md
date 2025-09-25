@@ -1,8 +1,8 @@
 # Problem Statement
 In traditional customer support systems, all incoming cases are routed manually or using simple rules (such as based on keywords or customer type). This approach has several problems:
-  - **High-priority or negative cases may be delayed**, as they are not automatically identified.
-  - **Manual routing increases workload** for managers and support leads.
-  - **Customer dissatisfaction** grows when urgent cases are not resolved quickly. Organizations need a **smart, automated, and scalable solution** to:
+- **High-priority or negative cases may be delayed**, as they are not automatically identified.
+- **Manual routing increases workload** for managers and support leads.
+- **Customer dissatisfaction** grows when urgent cases are not resolved quickly. Organizations need a **smart, automated, and scalable solution** to:
    
 ---
 # Salesforce Smart Case Routing 🚀
