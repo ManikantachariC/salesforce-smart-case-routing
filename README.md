@@ -8,7 +8,6 @@ In traditional customer support systems, all incoming cases are routed manually
     - Assign urgent/negative cases to the **right team** immediately.
     - Provide **real-time visibility** into sentiment and priority trends for managers.
 
-
 ---
 # Salesforce Smart Case Routing 🚀
 
