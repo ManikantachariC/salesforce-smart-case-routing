@@ -14,6 +14,7 @@ In traditional customer support systems, all incoming cases are routed manually
 This project implements **AI-powered smart case routing** in Salesforce using **Apex, Flows, and Dashboards**.  
 When a new Case is created, the system automatically analyzes its **sentiment** (Positive, Neutral, Negative) and **routes** it to the right support team.  
 
+
 ---
 
 ## 📌 Features
